@@ -10,9 +10,8 @@ English：
 2. You can set parameters in main.m and XXX_function.m is function of each respiratory pattern.
 
 
-You can refer to this paper 《ACCURATE AND UNOBTRUSIVE CLASSIFICATION OF ABNORMAL RESPIRATORY PATTERNS USING BI-AT-GRU NEURAL NETWORK AND DEPTH CAMERA》（In the manuscript）for more information.
+You can refer to this paper 《ACCURATE AND UNOBTRUSIVE CLASSIFICATION OF ABNORMAL RESPIRATORY PATTERNS USING BI-AT-GRU NEURAL NETWORK AND DEPTH CAMERA》（in the manuscript）for more information.
 
 
-
-2019.11.16 更新
+2019.11.16 
 添加了第七类：噪声，即无关信号。
