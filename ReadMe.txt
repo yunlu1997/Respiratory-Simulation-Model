@@ -8,9 +8,7 @@
 English：
 1. Run main.m to generate simulated respiratory pattern data XXX.csv
  The first column is the label, and the second column starts with the data.
-
 2. You can set parameters in main.m and XXX_function.m is function of each respiratory pattern.
-
 
 You can refer to this paper 《ACCURATE AND UNOBTRUSIVE CLASSIFICATION OF ABNORMAL RESPIRATORY PATTERNS USING BI-AT-GRU NEURAL NETWORK AND DEPTH CAMERA》（in the manuscript）for more information.
 
