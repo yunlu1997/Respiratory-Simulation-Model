@@ -3,6 +3,8 @@
 第一列是标签，第二列开始是数据。
 2.在 main.m中可以设置参数。XXX_function.m 是每个呼吸模式的函数。
 
+更多的信息可以参考《ACCURATE AND UNOBTRUSIVE CLASSIFICATION OF ABNORMAL RESPIRATORY PATTERNS USING BI-AT-GRU NEURAL NETWORK AND DEPTH CAMERA》（在投中）。
+
 English：
 1. Run main.m to generate simulated respiratory pattern data XXX.csv
  The first column is the label, and the second column starts with the data.
