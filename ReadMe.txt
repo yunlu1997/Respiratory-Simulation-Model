@@ -10,8 +10,14 @@ English：
  The first column is the label, and the second column starts with the data.
 2. You can set parameters in main.m and XXX_function.m is function of each respiratory pattern.
 
-You can refer to this paper 《ACCURATE AND UNOBTRUSIVE CLASSIFICATION OF ABNORMAL RESPIRATORY PATTERNS USING BI-AT-GRU NEURAL NETWORK AND DEPTH CAMERA》（in the manuscript）for more information.
+You can refer to this paper [《ACCURATE AND UNOBTRUSIVE CLASSIFICATION OF ABNORMAL RESPIRATORY PATTERNS USING BI-AT-GRU NEURAL NETWORK AND DEPTH CAMERA》] (https://arxiv.org/pdf/2002.05534.pdf) for more information.
+
+Wang, Yunlu, et al. "Abnormal respiratory patterns classifier may contribute to large-scale screening of people infected with COVID-19 in an accurate and unobtrusive manner." arXiv preprint arXiv:2002.05534 (2020).
+
+
 
 ___________
 2019.11.16 
 添加了第七类：噪声，即无关信号。
+
+
