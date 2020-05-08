@@ -10,4 +10,4 @@ English：<br/>
  The first column is the label, and the second column starts with the data.<br/>
 2. You can set parameters in main.m and XXX_function.m is function of each respiratory pattern. <br/>
 
-[Wang, Yunlu, et al. "Unobtrusive and Automatic Classification of Multiple People’s Abnormal Respiratory Patterns in Real Time using Deep Neural Network and Depth Camera." IEEE Internet of Things Journal (2020).](https://ieeexplore.ieee.org/abstract/document/9082635）
+[Wang, Yunlu, et al. "Unobtrusive and Automatic Classification of Multiple People’s Abnormal Respiratory Patterns in Real Time using Deep Neural Network and Depth Camera." IEEE Internet of Things Journal (2020).](https://ieeexplore.ieee.org/abstract/document/9082635）)
